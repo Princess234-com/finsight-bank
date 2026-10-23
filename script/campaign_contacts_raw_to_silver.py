@@ -198,14 +198,11 @@ silver_df.write \
 silver_count = silver_df.count()
 
 
-print("==========================================")
 print("CAMPAIGN CONTACTS PIPELINE COMPLETE")
-print("==========================================")
 print(f"RAW records:         {raw_count}")
 print(f"Invalid records:     {invalid_count}")
 print(f"Duplicates removed:  {duplicates_removed}")
 print(f"SILVER records:      {silver_count}")
-print("==========================================")
 
 
 job.commit()
