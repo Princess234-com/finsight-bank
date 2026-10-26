@@ -1,4 +1,4 @@
-# FinSight — Banking Intelligence Platform
+# Banking Intelligence Platform
 
 An AWS-based data engineering and machine learning portfolio project using **synthetic banking data**. FinSight transforms raw customer, account, transaction, loan, payment, and marketing records into queryable analytics datasets, then explores customer behaviour through machine learning.
 
